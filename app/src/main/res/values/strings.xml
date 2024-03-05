@@ -13,4 +13,6 @@
     <string name="add">ADD</string>
     <string name="cancel_dialog">CANCEL</string>
     <string name="type_note_here">Type note here</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="are_you_sure_you_want_detele_this_note">Are you sure you want detele this note?</string>
 </resources>
